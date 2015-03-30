@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LanguageFiles", "LanguageFiles", "{D01021FB-29EA-4A1B-8036-5ADAC0B747AF}"
 	ProjectSection(SolutionItems) = preProject
-		LanguageFiles\English.json = LanguageFiles\English.json
+		D:\Games\SteamLibrary\steamapps\common\Subnautica\SNUnmanagedData\LanguageFiles\English.json = D:\Games\SteamLibrary\steamapps\common\Subnautica\SNUnmanagedData\LanguageFiles\English.json
 		LanguageFiles\Polish.json = LanguageFiles\Polish.json
 	EndProjectSection
 EndProject
